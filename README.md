@@ -1,5 +1,5 @@
 # androidprogramlama
-Android Programlama Eğitim Seti
+Türkçe Android Studio ile Android Programlama Eğitimi
 
 1 - Android Studio Eğitim Programlama : Ders1 - Giriş
 https://www.youtube.com/watch?v=ntZmBZFSN-U
